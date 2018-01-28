@@ -22,5 +22,6 @@
 	<classpathentry kind="lib" path="C:/Users/Raja Babu/Downloads/springjars/springjars/web/web/org.springframework.web-3.0.1.RELEASE-A.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Raja Babu/Downloads/Compressed/javax.persistence.jar/javax.persistence.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Raja Babu/Downloads/spring-tx-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Raja Babu/Downloads/dom4j-1.6.1.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
